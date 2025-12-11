@@ -1,0 +1,32 @@
+domaine_medical,DomaineID
+Hématologie,1
+Urgences / Abdomen,2
+Ostéoarticulaire,3
+Non spécifié,4
+Imagerie Musculaire,5
+Imagerie Thoracique,6
+Stomatologie,7
+Anatomie / Radiologie,8
+Chirurgie Orthopédique,9
+Chirurgie CardioVasculaire,10
+Chirurgie Digestive,11
+Chirurgie Maxillo-Faciale,12
+Chirurgie Urologique,13
+Oncologie / Chirurgie Pelvienne,14
+Neurologie / Rachis,15
+Médecine Interne / Cardiologie,16
+Rhumatologie,17
+Pneumologie,18
+Endocrinologie,19
+Médecine Interne / Urologie,20
+Neurologie,21
+Neurologie / Oncologie,22
+ORL,23
+Pédiatrie / Locomoteur,24
+Pédiatrie / SNC,25
+Pédiatrie / Thorax,26
+Urgences / Infectiologie,27
+Urgences / Neurologie,28
+Urgences / Orthopédie,29
+Médecine nucléaire,30
+Urgences / Thorax,31
