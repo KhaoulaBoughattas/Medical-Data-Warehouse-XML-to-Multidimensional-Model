@@ -112,3 +112,8 @@ The warehouse supports **data-driven decision-making**, epidemiological studies,
 
 ## Author
 - **Khaoula Boughattas** – Data Engineering & Decision Systems Student at ENET’COM  
+
+[![GitHub](https://img.shields.io/badge/GitHub-khaoula--boughattas-181717?style=for-the-badge&logo=github)](https://github.com/khaoula-boughattas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khaoula-boughattas-983597295/)
+
+---
